@@ -1,0 +1,929 @@
+From - Tue Sep  6 19:05:18 2022
+X-Account-Key: account1
+X-UIDL: AKt6XIAxQccGYxeTCAG1gIVH13M
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.41.14
+ by atlas308.free.mail.bf1.yahoo.com with HTTPS; Tue, 6 Sep 2022 18:35:51 +0000
+Return-Path: <bo.dincer@yahoo.com>
+X-Originating-Ip: [98.137.70.82]
+Received-SPF: pass (domain of yahoo.com designates 98.137.70.82 as permitted sender)
+Authentication-Results: atlas308.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@yahoo.com header.s=s2048;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass(p=REJECT) header.from=yahoo.com;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 6 Sep 2022 18:35:51 +0000
+X-YMailAVSC: q5JEDZI3bBsuzZafyGj4CYjlxJT5DZdznDjnCMNIk7eEg5u
+ DxLcl2LEHH0t9Iy0OcSw97zGpKeMOlXhOylNLbBzIIF_T.Hyogi3jWiWxBjn
+ jELhN8E0gMHFBZBUSi8GLLl_WPp4mBTdRL6VgiedBFdMheXdzQ.0_yVt6uCW
+ wM_HwAnXcpxCsIclxkm4xLUK18_wHuAlMhI69Nub8mi4yURE4Ff3oArScKX4
+ 2k5Vv9YQMWxq0ZIdTwFwpyi2VtnZb8660.LG36Yy76n7B9f_W8U4jtCJgkZL
+ bJpyN5zPQQxUrZShmFm8Y1iO2bDX_tvNVK5VZvwmF4DnVjgKdZtQ9wl53wkC
+ tt1Kh_WNUj.slyiuwdNDCp1bv1CK1GQJW7R260gL91MMEbiTbs_TtgfH._na
+ h7GIojnqhWFinKVo0qgM_xXNrBnEAXixRyr4EBzcVAo8wGKLTdEanC00XN2R
+ e1_4xDtAdyiGv7ViR6_XeyvTD4RuvPjaB8ENlS.xat.4Ghq8IZi8tlj47Wbm
+ BPx4JVoxqKyHeFFWtc93vjpKu4sUkIYHQtl0rZ_lTDqN0q4OuO9Bar4zcNLG
+ rJyMyUKw1fJji.gwAhiM5AKUknCO78mIzflIVjnLRp8HGC0_GtLh0Hamk6mq
+ i4zCEmkQ1f4eEa1N0oN69UN4Yiiq6slTm3q089.3JF8eezOp.qMCJGHyof7n
+ BNIQ1Fibzqsl.lSodqDpxlTC_f2RJ6oR0CP1NifLF1awUyJ.gh1fB_adWi5x
+ 0dCAqqrz1wvf5cOq5xp9463usayl5fVgSYfdWoZVNg0eXyXQFxrbMTA69zXd
+ XBF0z_enDe0jXfwoDUJzzuwQkbSw5STk_XRVK0dbOP2FLZDmc2pT40g7wCjh
+ 2CSqUhAfRGIZ25MhVkHpCRGAoCUtihsFB_N55arlsdbUDpL8ge126CE6k.nV
+ QvKF0RqIgmay_OH3jer7wh579Ct39tKjNiRpZP1BJl722dphK7WaM.4hnDYF
+ cvme23O6FeiOxEIyKq0vo8yqRC6wGUMuYxG3M_tPWCebUvehvd.t4UKJO07o
+ iyGFMRXgvCYdTKkKW5SYZyuh_YV0F3GqVkaeV5HQ278BS7.WcySb.1jFbyW3
+ kDQRaAfpFp0Cwsw1CepHc_Rjhw3BHnsOd2MXZJRvXmsAW9ePqEkiekvGggkr
+ PlXt46cObvEoKPEr25Q5GFJ9wU_tLv8CiEc6xdQKjslNy2Jd8t0ti5hRR4HT
+ HlAWzodCSoPZ3Ec_8E_GW6q57WexpjNkGuEoMXOf5V427zQAi9LeHVyVZYQc
+ XVW63vXhseOuZnuamX1rZAgaN4R03rsv9JnsxMdXeHYk1M95q8vkETly3Gnb
+ _fV2UiVT4r_tErGyMVpN0muY0FyMWD7Jg50qDxMCUcxEK5Y7vVwv4.apRrdw
+ 2RW6mV8AkCpOVH6TRp7fcYtQNF7QdqcT0KEqlh5MU6GGnZ4zX1liZgaIwxU_
+ nQhjrpBmandSYGew-
+X-YMailISG: pTbBlJkWLDtmJ_3O1nj.vhRa0ZzmVlQwKuXo14TG7cLSI1h9
+ ZiQUMuo004203a4NK9790ZEpmJbOabLAccq3mGTLO0bkLHsZii3N5fMXcBaz
+ xw2iZO0kprronJ371wuG0WUyrw9lnMeZmyvYZFFJrDjDhShCnGsarZbYaAXS
+ a5HoiNQ_ygL.D2yM69R6jJcs.iAaQeh7gJHVivlAFjdMT_CO7aGvLNlLTuXt
+ lrAlxes.KdKT7SoWQV60q4Bs9gD2AAzSHe1DgGyKXq5hx1ADd98jHl_sgeZJ
+ 0hxRjc.wIjqiET_h63n_Jj.fsNKFFfFNF2FRY4bW1pX3_QuksMEmCaIukU6.
+ jKX0sZOTu5t9NFO9m.g3AIoqMdbo857uZBBeZoyO1P38MJdiAhgFb8kUkwT7
+ kIfn1enb_SOptTw5lBTatwxn2t8Olo.epkIEuGQkROyHmqVMKCjgohP.Arx2
+ Om2yGqV2OaGcdX9NC8HS2WE5NZX_pbqwe7hnU6yeK141rMogmfDLQ2_vwkzS
+ _uN5IMoFa_p9pol.Hx6aeM9f1j4yA7YtAaLJ7WEVdg_LTz21__MbRY0Vn5SG
+ IYc8K7cXCp.yqJOVqdaA8iiIfdWXduu8juWct9n73yVkzHrTcOzuS8TJRav4
+ W7SILyrpR1tZnoujO4d8HMJNjuoSkxN3hr8zAS3.T4GOuZ1aTgPTtvMpKPur
+ tbNaSAZwvGAcY5ZRGvb_Qju_UAeR7nRUqY_aQLwJ60ntI9hrPfLcYOjzakEv
+ ab6WrTRKgs1EXKXI.FpTSDeHkO77lCKsWfM0aOLBYX5afX8pWTTzM9NEIGvv
+ 1Ed4xWQVUcC7xvc.E1m0BxHTNfx.QcNTFvl0YSEayD0CvWZRIX3WCE2O2ZlD
+ zPPIefU1acZMR.nwTnojcgp5J5EEchbgnnSRTbg7XZ.Scv_5gLCkcZrcYxN1
+ XuQYmndxOts9gjoqjZhASVmNsb9YcMhDukDn7NzJgGXX0LZPdyV_zaDIfBsE
+ cy2uU.YqHE0PyghoqeY4pnGKzegGtfR5Z3pB3bFZzUBsUvue0EW.z_MGuCEI
+ vl.5Rxh4kDzsG9mS3b0ZeP6MXvzE7vjdB4uJfCI.hFyDmXoEtGmMOjOIe_1P
+ _3Klmncg.mJIc35wUvAkaqTXP5EjanEqEYYW0S5jYPFdZi8sGdXaoyVr0M8d
+ EijfCm4wjZXSPb2l8Y1xeK6As6nBVd4N
+Received: from 98.137.70.82 (EHLO sonic322-19.consmr.mail.gq1.yahoo.com)
+ by 10.197.41.14 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Tue, 06 Sep 2022 18:35:51 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1662489350; bh=rCcbFl3qEkbigyR7Gr3RYg6htBqDlPU6r0Z0cO/7CJc=; h=Date:From:Reply-To:To:Cc:In-Reply-To:References:Subject:From:Subject:Reply-To; b=saiCbjBjs6bp7mKWCbOnqYufVcqRmX+R8jMsbcUSfMb8ErfcLU5f1hrxIm0z0EZuIiOGkddCL96l+YuJyvosuZW+gDB6LdXS4XRkBgzwaVvyk0ELEjqRSoVSInkB/5yuQU+mXmDNf2i1dFRTI2UkRva+DJ1qM/vpcZqkE2dTIu1hmgdtMecReXFrnWk0WGUx0BzqRpoxp34ZeNiCY5Zu0WglKpanjCb09WpNCgw7BTV4I36nJZy7TUgh/dDJb+KM5cDWjHJ58TSvNkYGNcl+2D2ZSs/PAkpCbG9ImPbfehdFb3bo+qqKfc9aoJw6jIKVIQX4htcZBC1AYpFVwQVSVw==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1662489350; bh=B4VRJPlqoogJ1gde5OKV/TzxYuNEY1fVO+fDhAdihR4=; h=X-Sonic-MF:Date:From:To:Subject:From:Subject; b=ic7JyuHolyeOqTxvxG0JvrOpfe/hKPe+7kWCLizTHz5dcsCl+4lgyV4OG85spwA68PfE0+c86MrBdB0xfUxobGjD3DvY/Om9sMGgw5gALYQibm+mmor785/Kh9u4XHoFG5lWPqcDGcfBqdUbCxwWcga9a/WNxKXqswO7IkVxWyY4vJwE/3KtBXJ95n1X30TByq6iwrQ2Plc4TbnWfGsejdiTcvkfENq+ORcTGHmktYeO2NgujlBfr1pLLFsbomqzIMCy6tNirUiXENeQfDw07p0LAEXZA2vOb/1WQZD4o9BDTJmtRM5Y26zez0gIbQQVoaZM20FnDTGbgA+MwGgEWQ==
+X-YMail-OSG: 0j1DxnoVM1mESf_DEO2bS6P4x5.wGs9CY3hDwIVhp7u4ULGjEIxu_UYyjTGfdvT
+ S8gDKdssRDaDkFObF5mTLFskXB_uYbb0LFTVCtRdPmpiHSEDO4uUbiEyRGoHphToCSMS6oRR8yEj
+ xrBFgcvMCeYyyZ2P8sVPKEeN2T6PJPdKEYth9HWU210YelOw9DcFrMcZJczrp7iED4j2yMwwjPo6
+ x4fEOXGmJp6MlMbW0r_itUiFzloyeQHQ4cBJC8lp7BJp_ANewToqLHzSffvGvB63LqhbPTY46nk3
+ tQFmVnfGaQjvSb84vkUAwK.N0INPukJ_a18aQrn7ad71URpAeD9fWt4MPhLAQk8ANj7uTaXNhu_h
+ lYZ2J9floyCNkr2e4.3Ir8r5gy1IaeF3OwXQBlZDXtCIY46cZ4CrEC6beMbWTE49OpQ_GKPaoZFf
+ aPaRKkf_.LWKGf6jzUQmiRkTTuGhbyOEkRzIMnGg5lYPV1QVNs4KONoHQ7J0DLZlt09p1ALl0klQ
+ _v4._h87XUcHmaJoWd7tvG6CZAlM5VOqFwfEfEe70jkozeiUaDcTcxb5m7pibHuU9bqaUu4O90rb
+ vynLcZPnX0h5WdivT2.kIRhlpKsevhW_zFVvSOpCqZz8KrFfRu7NkrcWerbU1HIDueDQtsaDaMNu
+ hEZhI_XMV625GqwT_l6Lu2RzlLpOuJrUFkDen8P3SIIRvStGlCgoDypGY7B_5jCKfqJ9FYwonm8V
+ OoSBK9muHqdYkvAy9I_xaqk_YJyxPU_BByJxG75a1CpwlQcVTxsG18i0XOQhlX2cxT7gAbt69lm.
+ sOXiYzRl5PZalTiMpL10kKGqskjtMg7R6fThw13aUIN70zdSUpDWEXVTg.QdWt7HXkQ74mUKljxy
+ 3KSLKR7a1ljRMpY4_GsXro0EvyybKpNcvDhJc6TXRulvcK42.nAcUlK6VvJXUBGeubhcW.MC8V0P
+ fOjCVrDACz9Fpc7QdbsWdegBRbJAFfawU5MWTe_Px7qfa2IFhDx_pQPdQAbFL349nxUB5BVrA7rT
+ q54A9nJ3JnRTQ.fKu4obu_E7sGDo_hJM0ugYuHHkfX1TypgeAGAtLbq55RknmaktbVGColLHOKNO
+ di9TxOz2Su1Nwh3iivNcZDEOzf_N0fZbpaqFuX80d8Q.xyt3aLzdxsf8enYcRrUciCqUgth6ZgrG
+ F6VeyQHD_ADsTzujn88Pi1c4Old03WRdP6SujU18Ub0_tW483b9YvpBCbrza4jiCmBGvcqj2OIhS
+ 9GlPOLaooFeExApLYw1M00zMPngsD75K1qo5FqEc2hl65ku3n0S8MmXn_RYR3jW1LvSDFVGY6vAT
+ CaqbRn.oU7ZS_YQdFK972fBTDRJOamaqvDRI1B0uk57R5a5PaHa29gjCUKFgZgcmDqZSz0lw6qtL
+ cU7EAs4KXUR_GfwygQpc4uxC8TiDBISZs5ub6bMDMZ4e8chW8xeke.4TNWOt8BN_RIqKDXjWl9jT
+ v2ROf5D3Ydi2x6n4wOud7xKZGp9e.lpRBduuRJf8viurgO1GJF9.1ZJnOWrDqLxZqkwgfG0PWlND
+ DIrtigT.Wsoy1hpsEyKmPS03ug2I3tRQjC1ogkPeEzEt4e_eUdjL7GsYCouf.Lib8YeKL0Howc0m
+ bnPzkKk0yyXGe8G_0iVVilDcySWWGSH6ieE3wT7.UAxhRHEwb.Vb18hkWRMICdv8fwyP8R6Py5D9
+ yaTJSX.ah1VJTyRcnOFbw9GvwR6bsLVcWBcwL75ChwP5fZdoqNeV_EEsbHixQloU4FiO_UMJFI8b
+ BbWZ0pgCxZoUlX0zf4NBrhv3Gs3jpnG5l.9OcjW6fjyXfuZrfmGboL6Iv2pYswQut.mlVNjm7K6q
+ Y7xy_r8N21kP5dhdvQZPD61yCPj9VP2CSCp21U4ktNFpYaE361gM4_iRo1XcxbOH3tTj75034zk2
+ km1Vu9r_HCepjSL6ki7sxdcQBWoy.ApnS0lP5T9CFH4xRTywmzWdf98ozOBDAzfve7lN5HASRs.M
+ 4HpjoGN9eaf5oMx3siUqknAKRqrjWlIHpERxS0M.u9OoJDWOcRX2FZwH5t.aMp6MXaZJDNJIXHbH
+ wxGKdU._QCw8XX51ccfmrwqKkaQEUlGS3wulXktYYzXazXa2jhJlI0NH8sp_O1i4B4SpN3FrcVwV
+ ThYRJ5TzxJcjoLNZ2zqdb2ABeAyMa.YXNdkxxN3lLdIAzMbPzaEUteVKU9DVbg5CshIiLYujid3g
+ lel3.ykg7Lm2sOXN8cihkcFcQoFqKNkoLi6M_tgbFqqtaxNtJYuf1cwbhj7E0R9N1mRYgBDstEFM
+ Pr.tOiv0WW0IH6L1fWB54MNBV1Npjj6NahCQ3a10_hmTYOsU7zq2gpnfwEFE2QRblED87Z2PP0jq
+ 381lRFHRFwR8sSE5WnZkWsxC6GJFRL7_SKPeTGmk-
+X-Sonic-MF: <bo.dincer@yahoo.com>
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic322.consmr.mail.gq1.yahoo.com with HTTP; Tue, 6 Sep 2022 18:35:50 +0000
+Date: Tue, 6 Sep 2022 18:35:47 +0000 (UTC)
+From: Bo Dincer <bo.dincer@yahoo.com>
+Reply-To: "bo.dincer@yahoo.com" <bo.dincer@yahoo.com>
+To: Amber Griffiths <ag2943@columbia.edu>, 
+	Amber Griffiths <ag2943@adcu.columbia.edu>, 
+	Marlyn Delva <mmt22@cumc.columbia.edu>, 
+	Marlyn Delva <mmt22@columbia.edu>, 
+	"Ashley V. Humphries" <ashley.humphries@wilsonelser.com>, 
+	Shari Laskowitz <slaskowitz@ingramllp.com>, 
+	Paul Regan <legal@mskyline.com>, 
+	David Moore <david.moore.ct95@statefarm.com>, 
+	ANA LOPEZ <legalasst@mskyline.com>, 
+	"legal@insider-inc.com" <legal@insider-inc.com>, 
+	Stephen O'Connell <sgo2107@columbia.edu>, 
+	Stephen O'Connell <sgo2107@adcu.columbia.edu>, 
+	William McKenzie <wmckenzi@nycourts.gov>, 
+	"anne@thehighlandpartners.com" <anne@thehighlandpartners.com>, 
+	Ricki Roer <ricki.roer@wilsonelser.com>, 
+	Dean's Discipline - SCCS <conduct-admin@columbia.edu>, 
+	"LLC. MANHATTAN SKYLINE" <administrator@mskyline.com>, 
+	State Farm <mutualfunds@statefarm.com>, 
+	FREEDOM OF INFORMATION ACT <foia@eeoc.gov>, 
+	Daniel Richman <dcr2132@columbia.edu>, 
+	UNITED ARTISTS MUSIC <investorrelations@umusic.com>, 
+	MIT Sloan | THINKING FORWARD <thinkingforward@mit.edu>, 
+	MIT Sloan Executive Education <executive_education@mailsvc.sloan.mit.edu>, 
+	"nicholas.mitchell@nypd.org" <nicholas.mitchell@nypd.org>
+Cc: "ptgoulet@fbi.gov" <ptgoulet@fbi.gov>, 
+	"risc@ic.fbi.gov" <risc@ic.fbi.gov>, 
+	"antitrust.atr@usdoj.gov" <antitrust.atr@usdoj.gov>, 
+	"atr.international@usdoj.gov" <atr.international@usdoj.gov>, 
+	MILTON MCKENZIE <ms60710444266@yahoo.com>, 
+	"criminal.division@usdoj.gov" <criminal.division@usdoj.gov>, 
+	Baris Dincer <bdincer66@icloud.com>, 
+	"newyork@fbi.gov" <newyork@fbi.gov>, 
+	"Judith J. Craig" <judcraig@fdic.gov>, 
+	Legal Services and Special Contracts Group <lsscg@fdic.gov>, 
+	Icighotline <icighotline@dni.gov>, 
+	"cisa-gatewayhelpdesk@cisa.dhs.gov" <cisa-gatewayhelpdesk@cisa.dhs.gov>, 
+	"carmen.zapata@cisa.dhs.gov" <carmen.zapata@cisa.dhs.gov>, 
+	"inbox@livekelly.com" <inbox@livekelly.com>, 
+	"K. Ripp" <stationservices@cbs2ny.com>, 
+	"edi.civil.rights.division@irs.gov" <edi.civil.rights.division@irs.gov>, 
+	"Rights Division, Civil (CRT)" <civilrightsdivision@usdoj.gov>, 
+	"usamie.civilrights@usdoj.gov" <usamie.civilrights@usdoj.gov>, 
+	"civil.feedback@usdoj.gov" <civil.feedback@usdoj.gov>, 
+	"lox-execassistant-s@bop.gov" <lox-execassistant-s@bop.gov>, 
+	James Comey <jbc2167@columbia.edu>, 
+	Avril Haines <ah3774@columbia.edu>, 
+	"philadelphia.media@fbi.gov" <philadelphia.media@fbi.gov>, 
+	Marc Lavigne <tessier3@stanford.edu>, 
+	"bop-ipp-publicaffairs@bop.gov" <bop-ipp-publicaffairs@bop.gov>, 
+	"digest@stanforddaily.com" <digest@stanforddaily.com>
+Message-ID: <1640736914.1223708.1662489347047@mail.yahoo.com>
+In-Reply-To: <1670053559.1215475.1662487318998@mail.yahoo.com>
+References: <20220831214401-1474808-44436754@castlemail.io> <1909028251.1194245.1662485685403@mail.yahoo.com> <2069511033.1203597.1662487095445@mail.yahoo.com> <1670053559.1215475.1662487318998@mail.yahoo.com>
+Subject: Internet Bank Fraud for $4 Million.
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1223707_1226142330.1662489347041"
+X-Mailer: WebService/1.1.20595 YahooMailAndroidMobile
+Content-Length: 39537
+
+------=_Part_1223707_1226142330.1662489347041
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/11
+
+https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/7
+https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/5
+Docket 166, 153974
+Internet bank fraud for $6 million
+No different.=C2=A0
+#HOTOJAIL
+
+
+Sent from Yahoo Mail on Android=20
+=20
+  On Tue, Sep 6, 2022 at 2:01 PM, Bo Dincer<bo.dincer@yahoo.com> wrote:   T=
+hey will also destroy your system.
+
+Sent from Yahoo Mail on Android=20
+=20
+  On Tue, Sep 6, 2022 at 1:58 PM, Bo Dincer<bo.dincer@yahoo.com> wrote:   D=
+ocket 166z NYSCEF 153974_2020.=C2=A0
+https://www.justice.gov/usao-md/pr/four-defendants-face-federal-charges-all=
+eged-business-email-compromise-scheme-involving
+
+Baltimore,=C2=A0Maryland=C2=A0=E2=80=93=C2=A0A federal grand jury has retur=
+ned an indictment charging four defendants with conspiracy to commit bank f=
+raud, bank fraud, and aggravated identity theft.=C2=A0 Charged in the indic=
+tment are:
+Raissa Kaossele, age 22, of Baltimore, Maryland;
+Damilola Ojo, age 29, of Pikesville, Maryland;
+Victor Ojo, age 28, of Edgewood, Maryland;
+Jamelia Thompson, age 29, of Pikesville, Maryland.
+The indictment was announced by United States Attorney for the District of =
+Maryland Erek L. Barron and Special Agent in Charge Andrew McKay of the Tre=
+asury Inspector General for Tax Administration (=E2=80=9CTIGTA=E2=80=9D).
+According to the allegations in the eight-count indictment, from April 2016=
+ to May 2019, the defendants allegedly executed a business email compromise=
+ scheme (=E2=80=9CBEC scheme=E2=80=9D). =C2=A0The defendants compromised em=
+ail accounts of individual and business victims, which they used to send fr=
+audulent payment instructions to financial institutions or business associa=
+tes to misappropriate funds.=C2=A0 The indictment alleges that the defendan=
+ts used the stolen identifying information of individual victims to obtain =
+Employer Identification Numbers and state business certificates in the name=
+ of shell businesses.=C2=A0
+As alleged in the indictment, the defendants also obtained legitimate check=
+s written on the accounts of payor business victims and made payable to pay=
+ee business victims.=C2=A0 The defendants allegedly altered the name of the=
+ payee on some checks and deposited the stolen checks into bank accounts th=
+ey opened and controlled.=C2=A0 Further, the indictment alleges the defenda=
+nts and other conspirators then withdrew the unlawfully deposited funds fro=
+m the accounts.=C2=A0 As alleged in court documents, the defendants and oth=
+er co-conspirators conducted over $4 million in fraudulent bank transaction=
+s.
+If convicted, the defendants face a maximum sentence of 30 years in prison =
+for conspiracy to commit bank fraud, a maximum of 30 years in prison for ba=
+nk fraud, and a mandatory minimum sentence of two years in federal prison c=
+onsecutive to any other sentenced imposed for aggravated identity theft.=C2=
+=A0 Actual sentences for federal crimes are typically less than the maximum=
+ penalties.=C2=A0 A federal district court judge will determine any sentenc=
+e after taking into account the U.S. Sentencing Guidelines and other statut=
+ory factors.=C2=A0 An indictment is not a finding of guilt.=C2=A0 An indivi=
+dual charged by indictment is presumed innocent unless and until proven gui=
+lty at some later criminal proceedings.=C2=A0
+United States Attorney Erek L. Barron commended the Treasury Inspector Gene=
+ral for Tax Administration for their work on the investigation and thanked =
+the Baltimore City Police Department, Baltimore County Police Department, H=
+arford County Sheriff=E2=80=99s Office, and U.S. Customs and Border Protect=
+ion at Dulles International Airport for their assistance.=C2=A0 Mr. Barron =
+thanked Assistant U.S. Attorneys Mary Setzer and Paul A. Riley, who are pro=
+secuting the federal case.
+For more information on the Maryland U.S. Attorney=E2=80=99s Office, its pr=
+iorities, and resources available to help the community, please visit=C2=A0=
+www.justice.gov/usao-md=C2=A0and=C2=A0https://www.justice.gov/usao-md/commu=
+nity-outreach.
+# # #COURT DOCKETS AND EVIDENCE FOR THE USDOJvia.: .@mms.att.net
+
+NOT IN DISNEYLAND.https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE=
+/find/main
+https://github.com/BSCPGROUPHOLDINGSLLC/REPO3/find/main
+https://github.com/BSCPGROUPHOLDINGSLLC/REPO2/find/main
+https://github.com/BSCPGROUPHOLDINGSLLC/REPO1/find/main
+
+/s/ bd.=C2=A0
+After two years... these FELONS addressed in the TOP are not registered in =
+the BOP at any USP after they violated several bank regulations, securities=
+ laws, and the US Code.
+=C2=A0[USC 18, =C2=A73]
+under [USC 18, =C2=A7225]+[USC 18, =C2=A721]+[USC 18, =C2=A71962]+[USC 18, =
+=C2=A71963]+[USC 18, =C2=A7241]+[USC 18, =C2=A74]
+will lie 150 East 42nd Street 19th Floor, New York, NY 10017 Filed: 07/21/2=
+020not registered in the BOP at any USP after they violated [USC 18, =C2=A7=
+3] under [USC 18, =C2=A7225]+[USC 18, =C2=A721]+[USC 18, =C2=A71962]+[USC 1=
+8, =C2=A71963]+[USC 18, =C2=A7241]+[USC 18, =C2=A74] - will lie 150 East 42=
+nd Street 19th Floor, New York, NY 10017 Filed: 07/21/2020 +++ VIOLATION OF=
+ PRIVACY - also OWNED BY CIK FILER 93715, and CIK filer 1516523 NO DISCLOSU=
+RE AND A MERGER ++++ LOST the greater of $850,000,000.00 IN ABOUT 5 MINUTES
+=C2=A0TO HUSH FROM THE FELONIES THEY ARE DUCKING. LiKE THESE in the link ab=
+ove, very similar, but no different. Before I need to bend them over and de=
+lve into the fact that they will serve time for violation of privacy as wel=
+l.
+
+Sent from Yahoo Mail on Android=20
+=20
+  On Tue, Sep 6, 2022 at 1:34 PM, Bo Dincer<bo.dincer@yahoo.com> wrote:   Y=
+ep this one also has the complexion for the connection.
+Another health fraud scheme.
+See what happens when you lie to the Feds? That just makes it worse.=C2=A0
+
+Sent from Yahoo Mail on Android=20
+=20
+   ----- Forwarded Message ----- From: "FBI" <fbi@subscriptions.fbi.gov> To=
+: "bo.dincer@yahoo.com" <bo.dincer@yahoo.com>, "bdincer66@icloud.com" <bdin=
+cer66@icloud.com> Cc:  Sent: Wed, Aug 31, 2022 at 5:45 PM Subject: South Ba=
+y Chiropractor Sentenced to 14 Months in Federal Prison for Receiving Kickb=
+acks for Referring Patients for Spinal Surgeries  =20
+
+
+
+South Bay Chiropractor Sentenced to 14 Months in Federal Prison for Receivi=
+ng Kickbacks for Referring Patients for Spinal Surgeries=20
+=20
+ =20
+| =20
+ =20
+  |
+
+  =20
+| =20
+|   |
+
+  |
+
+=20
+| =20
+| =20
+|  =20
+| =20
+| =20
+  FBI Los Angeles News =20
+=20
+ South Bay Chiropractor Sentenced to 14 Months in Federal Prison for Receiv=
+ing Kickbacks for Referring Patients for Spinal Surgeries=20
+=20
+ Brian Carrico was sentenced to 14 months in federal prison for taking kick=
+backs from Pacific Hospital, a corrupt medical center in Long Beach whose o=
+wner was later imprisoned.=20
+=20
+ Aug. 26, 2022=20
+  |
+|   Full Press Release   |
+|    |
+
+  |
+
+   |
+
+  |
+
+  |
+
+=20
+=20
+ =20
+| =20
+| =20
+|      |      |      |      |
+
+  |
+
+  |
+
+   =20
+| =20
+| =20
+  You have received this message because you are subscribed to one or more =
+of the following categories: Los Angeles =20
+  Manage Subscription  |  Unsubscribe =20
+=20
+ If you have questions about this service, email us at delivery@subscriptio=
+ns.fbi.gov.=20
+  |
+
+=20
+| =20
+  Help  |  Privacy Policy  |  Visit FBI.gov =20
+  |
+
+  |
+
+        =20
+------=_Part_1223707_1226142330.1662489347041
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<a id=3D"linkextractor__1662489151947" data-yahoo-extracted-link=3D"true" h=
+ref=3D"https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/11" cl=
+ass=3D"lEnhancr_1662489155223" target=3D"_blank" rel=3D"noreferrer noopener=
+">https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/11</a><div =
+id=3D"yMail_cursorElementTracker_1662489152025"><br></div><div id=3D"yMail_=
+cursorElementTracker_1662489152687"><br><a id=3D"linkextractor__16624891899=
+99" data-yahoo-extracted-link=3D"true" href=3D"https://github.com/BSCPGROUP=
+HOLDINGSLLC/ELSER-AND-DICKER/pull/7" class=3D"lEnhancr_1662489192722" targe=
+t=3D"_blank" rel=3D"noreferrer noopener">https://github.com/BSCPGROUPHOLDIN=
+GSLLC/ELSER-AND-DICKER/pull/7</a></div><div id=3D"yMail_cursorElementTracke=
+r_1662489190042"><br></div><div id=3D"yMail_cursorElementTracker_1662489190=
+199"><a id=3D"linkextractor__1662489201350" data-yahoo-extracted-link=3D"tr=
+ue" href=3D"https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/5=
+" class=3D"lEnhancr_1662489204883" target=3D"_blank" rel=3D"noreferrer noop=
+ener">https://github.com/BSCPGROUPHOLDINGSLLC/ELSER-AND-DICKER/pull/5</a></=
+div><div id=3D"yMail_cursorElementTracker_1662489201409"><br></div><div id=
+=3D"yMail_cursorElementTracker_1662489280967">Docket 166, 153974</div><div =
+id=3D"yMail_cursorElementTracker_1662489285814"><br></div><div id=3D"yMail_=
+cursorElementTracker_1662489285942">Internet bank fraud for $6 million</div=
+><div id=3D"yMail_cursorElementTracker_1662489294327"><br></div><div id=3D"=
+yMail_cursorElementTracker_1662489294548">No different.&nbsp;</div><div id=
+=3D"yMail_cursorElementTracker_1662489304296"><br></div><div id=3D"yMail_cu=
+rsorElementTracker_1662489304508">#HOTOJAIL</div><div id=3D"yMail_cursorEle=
+mentTracker_1662489310589"><br></div><div id=3D"yMail_cursorElementTracker_=
+1662489339430"><br></div><div id=3D"yMail_cursorElementTracker_166248920157=
+2"><br><div id=3D"ymail_android_signature"><a id=3D"yMail_cursorElementTrac=
+ker_1662489203105" href=3D"https://go.onelink.me/107872968?pid=3DInProduct&=
+amp;c=3DGlobal_Internal_YGrowth_AndroidEmailSig__AndroidUsers&amp;af_wl=3Dy=
+m&amp;af_sub1=3DInternal&amp;af_sub2=3DGlobal_YGrowth&amp;af_sub3=3DEmailSi=
+gnature" target=3D"_blank" rel=3D"noreferrer noopener">Sent from Yahoo Mail=
+ on Android</a></div> <br> <blockquote style=3D"margin: 0 0 20px 0;"> <div =
+style=3D"font-family:Roboto, sans-serif; color:#6D00F6;"> <div>On Tue, Sep =
+6, 2022 at 2:01 PM, Bo Dincer</div><div>&lt;bo.dincer@yahoo.com&gt; wrote:<=
+/div> </div> <div style=3D"padding: 10px 0 0 20px; margin: 10px 0 0 0; bord=
+er-left: 1px solid #6D00F6;"> They will also destroy your system.<br><br><d=
+iv id=3D"ymail_android_signature"><a id=3D"ymail_android_signature_link" hr=
+ef=3D"https://go.onelink.me/107872968?pid=3DInProduct&amp;c=3DGlobal_Intern=
+al_YGrowth_AndroidEmailSig__AndroidUsers&amp;af_wl=3Dym&amp;af_sub1=3DInter=
+nal&amp;af_sub2=3DGlobal_YGrowth&amp;af_sub3=3DEmailSignature" target=3D"_b=
+lank" rel=3D"noreferrer noopener">Sent from Yahoo Mail on Android</a></div>=
+ <br> <blockquote style=3D"margin: 0 0 20px 0;"> <div style=3D"font-family:=
+Roboto, sans-serif; color:#6D00F6;"> <div>On Tue, Sep 6, 2022 at 1:58 PM, B=
+o Dincer</div><div>&lt;bo.dincer@yahoo.com&gt; wrote:</div> </div> <div sty=
+le=3D"padding: 10px 0 0 20px; margin: 10px 0 0 0; border-left: 1px solid #6=
+D00F6;"> <div id=3D"yMail_cursorElementTracker_1662486753682">Docket 166z N=
+YSCEF 153974_2020.&nbsp;</div><div id=3D"yMail_cursorElementTracker_1662486=
+760917"><br></div><div id=3D"yMail_cursorElementTracker_1662486725528"><a i=
+d=3D"linkextractor__1662486727454" data-yahoo-extracted-link=3D"true" href=
+=3D"https://www.justice.gov/usao-md/pr/four-defendants-face-federal-charges=
+-alleged-business-email-compromise-scheme-involving" class=3D"lEnhancr_1662=
+486728603" target=3D"_blank" rel=3D"noreferrer noopener">https://www.justic=
+e.gov/usao-md/pr/four-defendants-face-federal-charges-alleged-business-emai=
+l-compromise-scheme-involving</a></div><div id=3D"yMail_cursorElementTracke=
+r_1662486727475"><br></div><div><br></div>Baltimore,&nbsp;Maryland&nbsp;=E2=
+=80=93&nbsp;A federal grand jury has returned an indictment charging four d=
+efendants with conspiracy to commit bank fraud, bank fraud, and aggravated =
+identity theft.&nbsp; Charged in the indictment are:<div><br></div><div>Rai=
+ssa Kaossele, age 22, of Baltimore, Maryland;</div><div><br></div><div>Dami=
+lola Ojo, age 29, of Pikesville, Maryland;</div><div><br></div><div>Victor =
+Ojo, age 28, of Edgewood, Maryland;</div><div><br></div><div>Jamelia Thomps=
+on, age 29, of Pikesville, Maryland.</div><div><br></div><div>The indictmen=
+t was announced by United States Attorney for the District of Maryland Erek=
+ L. Barron and Special Agent in Charge Andrew McKay of the Treasury Inspect=
+or General for Tax Administration (=E2=80=9CTIGTA=E2=80=9D).</div><div><br>=
+</div><div>According to the allegations in the eight-count indictment, from=
+ April 2016 to May 2019, the defendants allegedly executed a business email=
+ compromise scheme (=E2=80=9CBEC scheme=E2=80=9D). &nbsp;The defendants com=
+promised email accounts of individual and business victims, which they used=
+ to send fraudulent payment instructions to financial institutions or busin=
+ess associates to misappropriate funds.&nbsp; The indictment alleges that t=
+he defendants used the stolen identifying information of individual victims=
+ to obtain Employer Identification Numbers and state business certificates =
+in the name of shell businesses.&nbsp;</div><div><br></div><div>As alleged =
+in the indictment, the defendants also obtained legitimate checks written o=
+n the accounts of payor business victims and made payable to payee business=
+ victims.&nbsp; The defendants allegedly altered the name of the payee on s=
+ome checks and deposited the stolen checks into bank accounts they opened a=
+nd controlled.&nbsp; Further, the indictment alleges the defendants and oth=
+er conspirators then withdrew the unlawfully deposited funds from the accou=
+nts.&nbsp; As alleged in court documents, the defendants and other co-consp=
+irators conducted over $4 million in fraudulent bank transactions.</div><di=
+v><br></div><div>If convicted, the defendants face a maximum sentence of 30=
+ years in prison for conspiracy to commit bank fraud, a maximum of 30 years=
+ in prison for bank fraud, and a mandatory minimum sentence of two years in=
+ federal prison consecutive to any other sentenced imposed for aggravated i=
+dentity theft.&nbsp; Actual sentences for federal crimes are typically less=
+ than the maximum penalties.&nbsp; A federal district court judge will dete=
+rmine any sentence after taking into account the U.S. Sentencing Guidelines=
+ and other statutory factors.&nbsp; An indictment is not a finding of guilt=
+.&nbsp; An individual charged by indictment is presumed innocent unless and=
+ until proven guilty at some later criminal proceedings.&nbsp;</div><div><b=
+r></div><div>United States Attorney Erek L. Barron commended the Treasury I=
+nspector General for Tax Administration for their work on the investigation=
+ and thanked the Baltimore City Police Department, Baltimore County Police =
+Department, Harford County Sheriff=E2=80=99s Office, and U.S. Customs and B=
+order Protection at Dulles International Airport for their assistance.&nbsp=
+; Mr. Barron thanked Assistant U.S. Attorneys Mary Setzer and Paul A. Riley=
+, who are prosecuting the federal case.</div><div><br></div><div>For more i=
+nformation on the Maryland U.S. Attorney=E2=80=99s Office, its priorities, =
+and resources available to help the community, please visit&nbsp;www.justic=
+e.gov/usao-md&nbsp;and&nbsp;https://www.justice.gov/usao-md/community-outre=
+ach.</div><div><br></div><div># # #</div><div id=3D"yMail_cursorElementTrac=
+ker_1662486679591">COURT DOCKETS AND EVIDENCE FOR THE USDOJ</div><div id=3D=
+"yMail_cursorElementTracker_1662486679591">via.: .@mms.att.net</div><div id=
+=3D"yMail_cursorElementTracker_1662486679591"><br></div><div id=3D"yMail_cu=
+rsorElementTracker_1662486679591"><br></div><div id=3D"yMail_cursorElementT=
+racker_1662486679591">NOT IN DISNEYLAND.</div><div id=3D"yMail_cursorElemen=
+tTracker_1662486687569"><a id=3D"linkextractor__1662486688229" data-yahoo-e=
+xtracted-link=3D"true" href=3D"https://github.com/BSCPGROUPHOLDINGSLLC/AIDE=
+D-LIKE-BERNIE/find/main" target=3D"_blank" rel=3D"noreferrer noopener">http=
+s://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/find/main</a></div><d=
+iv id=3D"yMail_cursorElementTracker_1662486688308"><br></div><div id=3D"yMa=
+il_cursorElementTracker_1662486689014"><a id=3D"linkextractor__166248668954=
+7" data-yahoo-extracted-link=3D"true" href=3D"https://github.com/BSCPGROUPH=
+OLDINGSLLC/REPO3/find/main" target=3D"_blank" rel=3D"noreferrer noopener">h=
+ttps://github.com/BSCPGROUPHOLDINGSLLC/REPO3/find/main</a></div><div id=3D"=
+yMail_cursorElementTracker_1662486689578"><br></div><div id=3D"yMail_cursor=
+ElementTracker_1662486690564"><a id=3D"linkextractor__1662486691247" data-y=
+ahoo-extracted-link=3D"true" href=3D"https://github.com/BSCPGROUPHOLDINGSLL=
+C/REPO2/find/main" target=3D"_blank" rel=3D"noreferrer noopener">https://gi=
+thub.com/BSCPGROUPHOLDINGSLLC/REPO2/find/main</a></div><div id=3D"yMail_cur=
+sorElementTracker_1662486691280"><br></div><div id=3D"yMail_cursorElementTr=
+acker_1662486691837"><a id=3D"linkextractor__1662486692426" data-yahoo-extr=
+acted-link=3D"true" href=3D"https://github.com/BSCPGROUPHOLDINGSLLC/REPO1/f=
+ind/main" target=3D"_blank" rel=3D"noreferrer noopener">https://github.com/=
+BSCPGROUPHOLDINGSLLC/REPO1/find/main</a></div><div id=3D"yMail_cursorElemen=
+tTracker_1662486692461"><br></div><div id=3D"yMail_cursorElementTracker_166=
+2486679591"><br></div><div id=3D"yMail_cursorElementTracker_1662486693273">=
+/s/ bd.&nbsp;</div><div id=3D"yMail_cursorElementTracker_1662486945946"><br=
+></div><div id=3D"yMail_cursorElementTracker_1662486946236">After two years=
+.. these FELONS addressed in the TOP are not registered in the BOP at any =
+USP after they violated several bank regulations, securities laws, and the =
+US Code.</div><div id=3D"yMail_cursorElementTracker_1662486694489"><br></di=
+v><div id=3D"yMail_cursorElementTracker_1662486695225">&nbsp;[USC 18, =C2=
+=A73]</div><div id=3D"yMail_cursorElementTracker_1662486679591"><br></div><=
+div id=3D"yMail_cursorElementTracker_1662486679591">under [USC 18, =C2=A722=
+5]+[USC 18, =C2=A721]+[USC 18, =C2=A71962]+[USC 18, =C2=A71963]+[USC 18, =
+=C2=A7241]+[USC 18, =C2=A74]</div><div id=3D"yMail_cursorElementTracker_166=
+2486679591"><br></div><div id=3D"yMail_cursorElementTracker_1662486679591">=
+will lie 150 East 42nd Street 19th Floor, New York, NY 10017 Filed: 07/21/2=
+020</div><div id=3D"yMail_cursorElementTracker_1662486685989">not registere=
+d in the BOP at any USP after they violated [USC 18, =C2=A73] under [USC 18=
+, =C2=A7225]+[USC 18, =C2=A721]+[USC 18, =C2=A71962]+[USC 18, =C2=A71963]+[=
+USC 18, =C2=A7241]+[USC 18, =C2=A74] - will lie 150 East 42nd Street 19th F=
+loor, New York, NY 10017 Filed: 07/21/2020 +++ VIOLATION OF PRIVACY - also =
+OWNED BY CIK FILER 93715, and CIK filer 1516523 NO DISCLOSURE AND A MERGER =
+++++ LOST the greater of $850,000,000.00 IN ABOUT 5 MINUTES</div><div id=3D=
+"yMail_cursorElementTracker_1662486832130"><br></div><div id=3D"yMail_curso=
+rElementTracker_1662486832448">&nbsp;TO HUSH FROM THE FELONIES THEY ARE DUC=
+KING. LiKE THESE in the link above, very similar, but no different. Before =
+I need to bend them over and delve into the fact that they will serve time =
+for violation of privacy as well.</div><div id=3D"yMail_cursorElementTracke=
+r_1662486608848"><br><br><div id=3D"ymail_android_signature"><a id=3D"ymail=
+_android_signature_link" href=3D"https://go.onelink.me/107872968?pid=3DInPr=
+oduct&amp;c=3DGlobal_Internal_YGrowth_AndroidEmailSig__AndroidUsers&amp;af_=
+wl=3Dym&amp;af_sub1=3DInternal&amp;af_sub2=3DGlobal_YGrowth&amp;af_sub3=3DE=
+mailSignature" target=3D"_blank" rel=3D"noreferrer noopener">Sent from Yaho=
+o Mail on Android</a></div> <br> <blockquote style=3D"margin: 0 0 20px 0;">=
+ <div style=3D"font-family:Roboto, sans-serif; color:#6D00F6;"> <div>On Tue=
+, Sep 6, 2022 at 1:34 PM, Bo Dincer</div><div>&lt;bo.dincer@yahoo.com&gt; w=
+rote:</div> </div> <div style=3D"padding: 10px 0 0 20px; margin: 10px 0 0 0=
+; border-left: 1px solid #6D00F6;"> Yep this one also has the complexion fo=
+r the connection.<div id=3D"yMail_cursorElementTracker_1662485652097"><br><=
+/div><div id=3D"yMail_cursorElementTracker_1662485652230">Another health fr=
+aud scheme.</div><div id=3D"yMail_cursorElementTracker_1662485662066"><br><=
+/div><div id=3D"yMail_cursorElementTracker_1662485662222">See what happens =
+when you lie to the Feds? That just makes it worse.&nbsp;<br><br><div id=3D=
+"ymail_android_signature"><a id=3D"ymail_android_signature_link" href=3D"ht=
+tps://go.onelink.me/107872968?pid=3DInProduct&amp;c=3DGlobal_Internal_YGrow=
+th_AndroidEmailSig__AndroidUsers&amp;af_wl=3Dym&amp;af_sub1=3DInternal&amp;=
+af_sub2=3DGlobal_YGrowth&amp;af_sub3=3DEmailSignature" target=3D"_blank" re=
+l=3D"noreferrer noopener">Sent from Yahoo Mail on Android</a></div> <br> <b=
+lockquote style=3D"margin: 0 0 20px 0;"> <div style=3D"padding: 10px 0 0 20=
+px; margin: 10px 0 0 0; border-left: 1px solid #6D00F6;"> <div style=3D"fon=
+t-family:Roboto, sans-serif; color:#6D00F6;"> <div>----- Forwarded Message =
+-----</div> <div><b>From:</b> "FBI" &lt;fbi@subscriptions.fbi.gov&gt;</div>=
+ <div><b>To:</b> "bo.dincer@yahoo.com" &lt;bo.dincer@yahoo.com&gt;, "bdince=
+r66@icloud.com" &lt;bdincer66@icloud.com&gt;</div> <div style=3D"display:no=
+ne"><b>Cc:</b> </div> <div><b>Sent:</b> Wed, Aug 31, 2022 at 5:45 PM</div> =
+<div><b>Subject:</b> South Bay Chiropractor Sentenced to 14 Months in Feder=
+al Prison for Receiving Kickbacks for Referring Patients for Spinal Surgeri=
+es</div> </div>  <div id=3D"yiv5682131447">
+
+
+
+=20
+<title>South Bay Chiropractor Sentenced to 14 Months in Federal Prison for =
+Receiving Kickbacks for Referring Patients for Spinal Surgeries</title>
+
+
+<div>
+<div>
+ <p style=3D"margin:0;padding:0;border:0;vertical-align:baseline;">
+ </p>
+ <div>
+  <table bgcolor=3D"#f3f3f3" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" style=3D"background-color:#f3f3f3;font-family:Helvetica, Arial, sans-ser=
+if;width:100%;">
+   <tbody style=3D"margin:0;padding:0;border:0;vertical-align:baseline;">
+    <tr style=3D"margin:0;padding:0;border:0;vertical-align:baseline;" vali=
+gn=3D"baseline">
+     <td style=3D"border:0;margin:0;padding:0;vertical-align:baseline;width=
+:580px;" valign=3D"baseline" width=3D"580">
+      <p align=3D"center" style=3D"border:0;margin:0;padding:0;vertical-ali=
+gn:baseline;text-align:center;">
+       <img alt=3D"" src=3D"https://delivery.fbi.gov/static/img/FBI-Banner-=
+580px.png" style=3D"border:0;margin:0;padding:0;vertical-align:baseline;wid=
+th:580px;" width=3D"580" id=3D"ymail_ctr_id_-823793-39">
+      </p>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+ </div>
+ <div>
+  <table bgcolor=3D"#f3f3f3" style=3D"background-color:#f3f3f3;border-spaci=
+ng:0;width:100%;">
+   <tbody style=3D"margin:0;padding:0;border:0;vertical-align:baseline;">
+    <tr style=3D"margin:0;padding:0;border:0;vertical-align:baseline;" vali=
+gn=3D"baseline">
+     <td align=3D"center" style=3D"border:0;margin:0;padding:0;vertical-ali=
+gn:baseline;text-align:center;width:580px;" valign=3D"baseline" width=3D"58=
+0">
+      <table align=3D"center" bgcolor=3D"#fefefe" style=3D"background-color=
+:#fefefe;border-collapse:collapse;border-spacing:0;color:#0a0a0a;float:none=
+;font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:normal=
+;line-height:1.6;margin:0 auto;padding:0;text-align:center;vertical-align:t=
+op;width:580px;">
+       <tbody style=3D"margin:0;padding:0;border:0;vertical-align:baseline;=
+">
+        <tr style=3D"margin:0;padding:0;border:0;vertical-align:baseline;" =
+valign=3D"baseline">
+         <td style=3D"border:0;margin:0;padding:0 0 16px 16px;vertical-alig=
+n:baseline;width:50%;word-wrap:normal;" valign=3D"baseline" width=3D"50%">
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+ </div>
+</div>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"background=
+-color:white;width:100%;">
+ <tbody style=3D"margin:0;padding:0;border:0;vertical-align:baseline;">
+  <tr style=3D"margin:0;padding:0;border:0;vertical-align:baseline;" valign=
+=3D"baseline">
+   <td style=3D"margin:0;padding:0;border:0;vertical-align:baseline;" valig=
+n=3D"top">
+    <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" style=3D"background:#ffffff;width:600px;">
+     <tbody style=3D"margin:0;padding:0;border:0;vertical-align:baseline;">
+      <tr style=3D"margin:0;padding:0;border:0;vertical-align:baseline;" va=
+lign=3D"baseline">
+       <td style=3D"margin:0;padding:0;border:0;vertical-align:baseline;" v=
+align=3D"top">
+        <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"wi=
+dth:600px;">
+         <tbody style=3D"margin:0;padding:0;border:0;vertical-align:baselin=
+e;">
+          <tr style=3D"margin:0;padding:0;border:0;vertical-align:baseline;=
+" valign=3D"baseline">
+           <td style=3D"margin:0;padding:0;border:0;vertical-align:baseline=
+;" valign=3D"baseline">
+            <div style=3D"margin:0;padding:0;border:0;vertical-align:baseli=
+ne;">
+             <table bgcolor=3D"#f3f3f3" style=3D"border:0;margin:0;padding:=
+0;vertical-align:baseline;background-color:#f3f3f3;border-spacing:0;width:1=
+00%;">
+              <tbody style=3D"border:0;margin:0;padding:0;vertical-align:ba=
+seline;">
+               <tr style=3D"border:0;margin:0;padding:0;vertical-align:base=
+line;" valign=3D"baseline">
+                <td align=3D"center" style=3D"border:0;margin:0;padding:0;v=
+ertical-align:baseline;text-align:center;width:580px;" valign=3D"baseline" =
+width=3D"580">
+                 <table align=3D"center" bgcolor=3D"#fefefe" style=3D"borde=
+r:0;margin:0 auto;padding:0;vertical-align:top;background-color:#fefefe;bor=
+der-collapse:collapse;border-spacing:0;color:#0a0a0a;float:none;font-family=
+:Helvetica, Arial, sans-serif;font-size:18px;font-weight:normal;line-height=
+:1.6;text-align:center;width:580px;">
+                  <tbody style=3D"border:0;margin:0;padding:0;vertical-alig=
+n:baseline;">
+                   <tr style=3D"border:0;margin:0;padding:0;vertical-align:=
+baseline;" valign=3D"baseline">
+                    <td align=3D"center" colspan=3D"2" style=3D"border:0;ma=
+rgin:0;padding:0 16px 0 16px;vertical-align:baseline;text-align:center;widt=
+h:100%;" valign=3D"baseline" width=3D"100%">
+                     <p align=3D"left" style=3D"border:0;margin:0 0 10px;pa=
+dding:0;vertical-align:baseline;color:#808080;font-family:Helvetica, Arial,=
+ sans-serif;font-size:18px;font-weight:normal;line-height:1.3;text-align:le=
+ft;word-wrap:normal;">
+                      <em>
+                       FBI Los Angeles News
+                      </em>
+                     </p>
+                     <h2 align=3D"left" style=3D"border:0;margin:0 0 10px 0=
+;padding:0;vertical-align:baseline;color:inherit;font-family:Helvetica, Ari=
+al, sans-serif;font-size:30px;font-weight:bold;line-height:1.3;text-align:l=
+eft;word-wrap:normal;">
+                      South Bay Chiropractor Sentenced to 14 Months in Fede=
+ral Prison for Receiving Kickbacks for Referring Patients for Spinal Surger=
+ies
+                     </h2>
+                     <h3 align=3D"left" style=3D"border:0;margin:0 0 10px;p=
+adding:0;vertical-align:baseline;color:inherit;font-family:Helvetica, Arial=
+, sans-serif;font-size:18px;font-weight:normal;line-height:1.3;text-align:l=
+eft;word-wrap:normal;">
+                      Brian Carrico was sentenced to 14 months in federal p=
+rison for taking kickbacks from Pacific Hospital, a corrupt medical center =
+in Long Beach whose owner was later imprisoned.
+                     </h3>
+                     <h3 align=3D"left" style=3D"border:0;margin:0 0 10px;p=
+adding:0;vertical-align:baseline;color:#808080;font-family:Helvetica, Arial=
+, sans-serif;font-size:18px;font-weight:normal;line-height:1.3;text-align:l=
+eft;word-wrap:normal;">
+                      Aug. 26, 2022
+                     </h3>
+                    </td>
+                   </tr>
+                   <tr style=3D"border:0;margin:0;padding:0;vertical-align:=
+baseline;" valign=3D"baseline">
+                    <td align=3D"right" colspan=3D"2" style=3D"border:0;mar=
+gin:0;padding:0;vertical-align:baseline;text-align:right;width:100%;" valig=
+n=3D"baseline" width=3D"100%">
+                     <a href=3D"https://www.fbi.gov/contact-us/field-office=
+s/losangeles/news/press-releases/south-bay-chiropractor-sentenced-to-14-mon=
+ths-in-federal-prison-for-receiving-kickbacks-for-referring-patients-for-sp=
+inal-surgeries?utm_campaign=3Demail-Immediate&amp;utm_medium=3Demail&amp;ut=
+m_source=3Dlos-angeles&amp;utm_content=3D%5B1474808%5D-%2Fcontact-us%2Ffiel=
+d-offices%2Flosangeles%2Fnews%2Fpress-releases%2Fsouth-bay-chiropractor-sen=
+tenced-to-14-months-in-federal-prison-for-receiving-kickbacks-for-referring=
+-patients-for-spinal-surgeries" style=3D"border:0;margin:0 10px 0 0;padding=
+:0;vertical-align:baseline;background-color:#2a477a;border-bottom:15px soli=
+d #2A477A;border-left:25px solid #2A477A;border-right:25px solid #2A477A;bo=
+rder-top:15px solid #2A477A;color:#fefefe;display:inline-block;font-family:=
+Helvetica, Arial, sans-serif;font-size:20px;font-weight:bold;line-height:1.=
+3;text-decoration:none;" target=3D"_blank" rel=3D"noreferrer noopener">
+                      Full Press Release
+                     </a>
+                    </td>
+                   </tr>
+                   <tr style=3D"border:0;margin:0;padding:0;vertical-align:=
+baseline;" valign=3D"baseline">
+                    <td colspan=3D"2" style=3D"border:0;margin:0;padding:0;=
+vertical-align:baseline;" valign=3D"baseline">
+                     <hr style=3D"margin-bottom:20px;margin-top:20px;">
+                    </td>
+                   </tr>
+                  </tbody>
+                 </table>
+                </td>
+               </tr>
+              </tbody>
+             </table>
+            </div>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+       </td>
+      </tr>
+     </tbody>
+    </table>
+   </td>
+  </tr>
+ </tbody>
+</table>
+
+<div>
+ <p style=3D"margin:0;padding:0;border:0;vertical-align:baseline;">
+ =20
+ </p>
+ <div>
+  <table bgcolor=3D"#f3f3f3" style=3D"background-color:#f3f3f3;border-spaci=
+ng:0;width:100%;">
+   <tbody style=3D"margin:0;padding:0;border:0;vertical-align:baseline;">
+    <tr style=3D"margin:0;padding:0;border:0;vertical-align:baseline;" vali=
+gn=3D"baseline">
+     <td align=3D"center" style=3D"border:0;margin:0;padding:0;vertical-ali=
+gn:baseline;text-align:center;width:580px;" valign=3D"baseline" width=3D"58=
+0">
+      <table align=3D"center" bgcolor=3D"#FFFFFF" style=3D"background-color=
+:#ffffff;border-collapse:collapse;border-spacing:0;color:black;float:none;f=
+ont-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:normal;l=
+ine-height:1.6;margin:0 auto;padding:0;text-align:center;vertical-align:top=
+;width:580px;">
+       <tbody style=3D"margin:0;padding:0;border:0;vertical-align:baseline;=
+">
+        <tr style=3D"margin:0;padding:0;border:0;vertical-align:baseline;" =
+valign=3D"baseline">
+         <td style=3D"margin:0;padding:0;border:0;vertical-align:baseline;"=
+ valign=3D"baseline">
+          <table align=3D"center" bgcolor=3D"#ffffff" style=3D"background-c=
+olor:#ffffff;border-collapse:collapse;border-spacing:0;color:white;float:no=
+ne;font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:norm=
+al;line-height:1.6;margin:0 auto;padding:0;text-align:center;vertical-align=
+:top;width:580px;margin-bottom:10px;">
+           <tbody style=3D"margin:0;padding:0;border:0;vertical-align:basel=
+ine;">
+            <tr style=3D"margin:0;padding:0;border:0;vertical-align:baselin=
+e;" valign=3D"baseline">
+             <td style=3D"border:0;margin:0;padding:0 30px;vertical-align:b=
+aseline;width:25%;" valign=3D"baseline" width=3D"25%">
+              <a href=3D"https://www.facebook.com/FBI" style=3D"border:0;ma=
+rgin:0;padding:0;vertical-align:baseline;text-decoration:none;" target=3D"_=
+blank" rel=3D"noreferrer noopener">
+               <img alt=3D"" src=3D"https://delivery.fbi.gov/static/img/fac=
+ebook.png" style=3D"border:0;margin:0;padding:0;vertical-align:baseline;cle=
+ar:both;display:block;margin-bottom:10px;max-width:100%;outline:none;text-d=
+ecoration:none;width:auto;" width=3D"auto" id=3D"ymail_ctr_id_-336010-40">
+              </a>
+             </td>
+             <td style=3D"border:0;margin:0;padding:0 30px;vertical-align:b=
+aseline;width:25%;" valign=3D"baseline" width=3D"25%">
+              <a href=3D"https://twitter.com/FBI" style=3D"border:0;margin:=
+0;padding:0;vertical-align:baseline;text-decoration:none;" target=3D"_blank=
+" rel=3D"noreferrer noopener">
+               <img alt=3D"" src=3D"https://delivery.fbi.gov/static/img/twi=
+tter2.png" style=3D"border:0;margin:0;padding:0;vertical-align:baseline;cle=
+ar:both;display:block;margin-bottom:10px;max-width:100%;outline:none;text-d=
+ecoration:none;width:auto;" width=3D"auto" id=3D"ymail_ctr_id_-319108-41">
+              </a>
+             </td>
+             <td style=3D"border:0;margin:0;padding:0 30px;vertical-align:b=
+aseline;width:25%;" valign=3D"baseline" width=3D"25%">
+              <a href=3D"https://www.youtube.com/user/FBI" style=3D"border:=
+0;margin:0;padding:0;vertical-align:baseline;text-decoration:none;" target=
+=3D"_blank" rel=3D"noreferrer noopener">
+               <img alt=3D"" src=3D"https://delivery.fbi.gov/static/img/you=
+tube.png" style=3D"border:0;margin:0;padding:0;vertical-align:baseline;clea=
+r:both;display:block;margin-bottom:10px;max-width:100%;outline:none;text-de=
+coration:none;width:auto;" width=3D"auto" id=3D"ymail_ctr_id_-959322-42">
+              </a>
+             </td>
+             <td style=3D"border:0;margin:0;padding:0 30px;vertical-align:b=
+aseline;width:25%;" valign=3D"baseline" width=3D"25%">
+              <a href=3D"https://www.fbi.gov/e-mail-updates?utm_campaign=3D=
+email-Immediate&amp;utm_medium=3Demail&amp;utm_source=3Dlos-angeles&amp;utm=
+_content=3D%5B1474808%5D-%2Fe-mail-updates" style=3D"border:0;margin:0;padd=
+ing:0;vertical-align:baseline;text-decoration:none;" target=3D"_blank" rel=
+=3D"noreferrer noopener">
+               <img alt=3D"" src=3D"https://delivery.fbi.gov/static/img/mai=
+l.png" style=3D"border:0;margin:0;padding:0;vertical-align:baseline;clear:b=
+oth;display:block;margin-bottom:10px;max-width:100%;outline:none;text-decor=
+ation:none;width:auto;" width=3D"auto" id=3D"ymail_ctr_id_-711012-43">
+              </a>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  <img alt=3D"" id=3D"yiv5682131447ga-tracker" src=3D"http://www.google-ana=
+lytics.com/collect?dh=3Dwww.fbi.gov&amp;cm=3Demail&amp;cid=3D3072326734.217=
+3316305&amp;ea=3Dopen&amp;ec=3Demail&amp;tid=3DUA-1603990-1&amp;t=3Devent&a=
+mp;v=3D1&amp;cs=3Ddelivery&amp;je=3D0&amp;dt=3DSouth+Bay+Chiropractor+Sente=
+nced+to+14+Months+in+Federal+Prison+for+Receiving+Kickbacks+for+Referring+P=
+atients+for+Spinal+Surgeries&amp;fl=3D-&amp;dp=3D%2Ffbidelivery%2F1474808" =
+style=3D"margin:0;padding:0;border:0;vertical-align:baseline;">
+ </div>
+ <div>
+  <table bgcolor=3D"#f3f3f3" style=3D"background-color:#f3f3f3;border-spaci=
+ng:0;width:100%;">
+   <tbody style=3D"margin:0;padding:0;border:0;vertical-align:baseline;">
+    <tr style=3D"margin:0;padding:0;border:0;vertical-align:baseline;" vali=
+gn=3D"baseline">
+     <td align=3D"center" style=3D"border:0;margin:0;padding:0;vertical-ali=
+gn:baseline;text-align:center;width:580px;" valign=3D"baseline" width=3D"58=
+0">
+      <table align=3D"center" bgcolor=3D"#F3F3F3" style=3D"background-color=
+:#f3f3f3;border-collapse:collapse;border-spacing:0;color:#0a0a0a;float:none=
+;font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:normal=
+;line-height:1.6;margin:0 auto;padding:0;text-align:center;vertical-align:t=
+op;width:580px;">
+       <tbody style=3D"margin:0;padding:0;border:0;vertical-align:baseline;=
+">
+        <tr style=3D"margin:0;padding:0;border:0;vertical-align:baseline;" =
+valign=3D"baseline">
+         <td align=3D"left" style=3D"border:0;margin:0;padding:30px 15px;ve=
+rtical-align:top;text-align:left;width:50%;" valign=3D"top" width=3D"50%">
+          <p align=3D"center" style=3D"border:0;margin:0;padding:0;vertical=
+-align:baseline;text-align:center;">
+           <em>
+            You have received this message because you are subscribed to on=
+e or more of the following categories: Los Angeles
+           </em>
+           <br>
+           <a href=3D"https://delivery.fbi.gov/account-reminder" style=3D"m=
+argin:0;padding:0;border:0;vertical-align:baseline;" target=3D"_blank" rel=
+=3D"noreferrer noopener">
+            Manage Subscription
+           </a>
+           |
+           <a href=3D"https://delivery.fbi.gov/subscriber/f659b7dd4f262c6e4=
+4ee614803a541b1889b338f/unsubscribe" style=3D"margin:0;padding:0;border:0;v=
+ertical-align:baseline;" target=3D"_blank" rel=3D"noreferrer noopener">
+            Unsubscribe
+           </a>
+          </p>
+          <p align=3D"center" style=3D"border:0;margin:0;padding:0;vertical=
+-align:baseline;text-align:center;">
+           If you have questions about this service, email us at delivery@s=
+ubscriptions.fbi.gov.
+          </p>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <table align=3D"center" bgcolor=3D"#fefefe" style=3D"background-color=
+:#fefefe;border-collapse:collapse;border-spacing:0;color:#0a0a0a;float:none=
+;font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:normal=
+;line-height:1.6;margin:0 auto;padding:0;text-align:center;vertical-align:t=
+op;width:580px;">
+       <tbody style=3D"margin:0;padding:0;border:0;vertical-align:baseline;=
+">
+        <tr style=3D"margin:0;padding:0;border:0;vertical-align:baseline;" =
+valign=3D"baseline">
+         <td align=3D"center" style=3D"border:0;margin:0;padding:0;vertical=
+-align:baseline;padding-right:20px;text-align:center;" valign=3D"baseline">
+          <p style=3D"margin:0;padding:0;border:0;vertical-align:baseline;"=
+>
+           <a href=3D"https://www.fbi.gov/e-mail-updates?utm_campaign=3Dema=
+il-Immediate&amp;utm_medium=3Demail&amp;utm_source=3Dlos-angeles&amp;utm_co=
+ntent=3D%5B1474808%5D-%2Fe-mail-updates" style=3D"border:0;margin:0;padding=
+:0;vertical-align:baseline;text-decoration:none;" target=3D"_blank" rel=3D"=
+noreferrer noopener">
+            Help
+           </a>
+           |
+           <a href=3D"http://www.fbi.gov/privacy_policy?utm_campaign=3Demai=
+l-Immediate&amp;utm_medium=3Demail&amp;utm_source=3Dlos-angeles&amp;utm_con=
+tent=3D%5B1474808%5D-%2Fprivacy_policy" style=3D"border:0;margin:0;padding:=
+0;vertical-align:baseline;text-decoration:none;" target=3D"_blank" rel=3D"n=
+oreferrer noopener">
+            Privacy Policy
+           </a>
+           |
+           <a href=3D"https://www.fbi.gov/?utm_campaign=3Demail-Immediate&a=
+mp;utm_medium=3Demail&amp;utm_source=3Dlos-angeles&amp;utm_content=3D%5B147=
+4808%5D-%2F" style=3D"border:0;margin:0;padding:0;vertical-align:baseline;t=
+ext-decoration:none;" target=3D"_blank" rel=3D"noreferrer noopener">
+            Visit FBI.gov
+           </a>
+          </p>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+ </div>
+</div>
+</div></div> </div> </blockquote></div> </div> </blockquote></div> </div> <=
+/blockquote> </div> </blockquote></div>
+------=_Part_1223707_1226142330.1662489347041--

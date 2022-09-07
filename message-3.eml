@@ -1,0 +1,84 @@
+From - Tue Sep  6 23:03:08 2022
+X-Account-Key: account1
+X-UIDL: APOT1D0Wr376YxfzhA0PwOVMnd0
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.135.43
+ by atlas221.free.mail.ne1.yahoo.com with HTTPS; Wed, 7 Sep 2022 01:27:32 +0000
+Return-Path: <+19173783467@tmomail.net>
+X-Originating-Ip: [35.164.127.243]
+Received-SPF: pass (domain of tmomail.net designates 35.164.127.243 as permitted sender)
+Authentication-Results: atlas221.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@tmomail.net header.s=mes;
+ spf=pass smtp.mailfrom=tmomail.net;
+ dmarc=unknown header.from=tmomail.net;
+X-Apparently-To: ms60710444266@yahoo.com; Wed, 7 Sep 2022 01:27:32 +0000
+X-YMailISG: pZcWoIwWLDvMfYas61_R.kC3ncZEacNnQs7v8.eUOHvXBcoz
+ sJG5.jygu0kc5QL4oqxcYxqlAiNABoVCTHpLOmY7UghIpRt_.x1bnnCRJSKT
+ r0iaiM8BL6brOdSc6Hr5amxvaNU9UFGW6F.fFr0uhq3718gK3gbcEM_BEUiF
+ lc2b2FbEUCz6NYxwE3HW4mp67TtJyctZ9kiHEHHAPIh0a_PXdCg7FtOC7N2f
+ 4DmrtCGh_qxMextj45d7t05xjVsgcufF2Rp7DQfhzv3QBJi3VTTYAMoH2fkd
+ r_cXq0cHwTx_C6S2XCTKEDf1KhS.LefUj.9XSUKANHjpjMWtrR5Zl5RmsW2X
+ jRuobnym3BB_8zub3jx_BjRI6BFQUHMt2hfzuAo9GMiAt3plsC.ytPP3JZ_g
+ vjIV1XOn43Q1ro7kfN4IjPidSvT_s8qc3DJErn9LdJ1iewnW9PqtnLFkWlwZ
+ _XI4trJ3qq4Vf7xaAQIsRgT0oZez8Cn7ZEtFgDn_vH8XSR1f2suwGyiqM3vL
+ dc9XtRbcpODS0TQIziunWVqjuMhZCsqgV1gTasqf2Rb9EeHkLq65AnjlkGPq
+ dvLQaWyScGt38piGRZ18u.CHa48bNLSxRlWAg_IxVq1FMte1QLaF0O9MVntH
+ wflMIE_DVx9YVW6tPceeK_3Y04Z37FaHDO56X0_jTZZciRhzxgctGy8hX8Ao
+ 2k.JpDKpHCWrhxgz_YGoYLtGmicj2mHRxdg0xSlmNx0xhbUQ76S5xKRfMZDm
+ U62rcE3gQ474aliwD6MZ70Y0Wa5JodWnimOIhqy9JOa0kTJ4NA0AKqDo2ZLJ
+ y45rd7Ia7I4syVfnlDawmcMHqXaNjf_z7T.ZElJieKTbbTEbSyoBXsx8dsej
+ cWemj.Lvk0TWiAnNPv9o7m42tBVhJ8HsVRazG8oebnvwoN..k.AseX7RS2qC
+ xz5IsR3V2eedL33t2BWcAKGTn36uk3MfCxYhFhzdGYEeQUBi6ZwXFm9VqDyn
+ XKFwdrUZWI3dp5ecYldKw6wexQPtlAvbW5p0sDO6shiMG07udeIle7snWfVm
+ EdT.rbwbvrKfQ1mpa57_FMGhYBUMNzT7llQXeffyMRu2QQCkXd1L4nR2E8RF
+ gVFoX66I2JxdHSzXy3gd9YNigPiz6F9npZLCy08s2hbaRB1HP8b5KiagGy96
+ S9y_
+Received: from 35.164.127.243 (EHLO omta020.uswest2.a.cloudfilter.net)
+ by 10.217.135.43 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Wed, 07 Sep 2022 01:27:32 +0000
+Received: from tmo-obgw-5001a.ext.cloudfilter.net ([10.0.25.183])
+	by cmsmtp with ESMTP
+	id VVpAoXwpLTwU8VjqmoDuOb; Wed, 07 Sep 2022 01:27:32 +0000
+Received: from mtapol03.msg.t-mobile.com ([208.54.152.88])
+	by smc smtp with ESMTP
+	id VjqlofvT6s6jnVjqloo7A0; Wed, 07 Sep 2022 01:27:32 +0000
+X-Authority-Analysis: v=2.4 cv=IZ6U5Ema c=1 sm=1 tr=0 ts=6317f384
+ cx=a_e2s:c_tmo a=flaSd0wal2IFLDINEhEeww==:117 a=flaSd0wal2IFLDINEhEeww==:17
+ a=s5jvgZ67dGcA:10 a=xOM3xZuef0cA:10 a=NEAV23lmAAAA:8 a=c_0vx9Lwj51JRBkA-lQA:9
+ a=QEXdDO2ut3YA:10 a=m-Z_27IZkzAA:10 a=3crNooZf-0rloioFPiM1:22
+ a=lP40QHv-sKH3OE2qS8h9:22
+Received: by mtapol03.msg.t-mobile.com (Postfix, from userid 8)
+	id 69EBA10000050; Tue,  6 Sep 2022 18:27:31 -0700 (PDT)
+Received: from tmobile.net (lbnpol8182 [10.175.104.185])
+	by mtapol03.msg.t-mobile.com (Postfix) with ESMTP id 3E0E410000051
+	for <ms60710444266@yahoo.com>; Tue,  6 Sep 2022 18:27:31 -0700 (PDT)
+DKIM-Filter: OpenDKIM Filter v2.11.0 mtapol03.msg.t-mobile.com 3E0E410000051
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=tmomail.net; s=mes;
+	t=1662514051; bh=u/StF8fxk2qY96a8gKOqL3IlWe7A0FVZ1COsGTyenlQ=;
+	h=To:From:Date;
+	b=brxGPkXgZ65v/IUqyGrfedXcLr70DNXbK9n0GhQgWe88ubkt9YUJywJTxM5JZ832t
+	 B7qLTRC97LVDbHMu7Q/iMkxfxy7brWt3HR5ihCXcL8s7aR0bnuDvnWfg3gz5gBeDfA
+	 LCfoaI+Rg3uJZtHxcO8lbl4rVueD04+WzzhB4oS4=
+To: ms60710444266@yahoo.com,8455707418@tmomail.net,walestips@fbi.gov,gabrielle.dudgeon@usdoj.gov,newyork@fbi.gov,114pctyco@nypd.org,14pctdvo@nypd.org,crimetips@udpd.org,ah3774@columbia.edu,cisa-gatewayhelpdesk@cisa.dhs.gov,77295@tmomail.net,20pctdvo@nypd.org,78015@tmomail.net,1pctdvo@nypd.org,carmen.zapata@cisa.dhs.gov,50411@tmomail.net,114pctdvo@nypd.org,847411@tmomail.net,67283@tmomail.net,23pctdvo@nypd.com
+From: +19173783467@tmomail.net
+Content-Type: multipart/related;Type="text/html";boundary="-boundaryRMS123"
+Date: Wed, 7 Sep 2022 01:27:31 GMT
+Sender: +19173783467@tmomail.net
+Message-Id: <20220907012731.69EBA10000050@mtapol03.msg.t-mobile.com>
+X-CMAE-Envelope: MS4xfE1ClOi3yVbTxUgoUMAtcNt+YzCioUOnGCX5NKzdeoN3AV0VOcvwfFCMANWXz8hIQ2CVBLc/+3OQAT7BlpFYnKfbZ7DmW250KoMj5jPRJgbL/5DdunyP
+ 5Uhw2BVJakAL2jpw0h7FSZRGGfcIuB+RebNHXlLAwMgYQ7egCWng8hFrJu36oFCJkBz+oAHkP9EJFZh6XhuzCLHUC7OQQUH2Y3E=
+Content-Length: 332
+
+---boundaryRMS123
+Content-ID:<text.000000>
+Content-Type:text/plain;Name="text.000000.txt";Charset="utf-8"
+Content-Location:text.000000.txt
+Content-Transfer-Encoding:base64
+
+aHR0cHM6Ly9naXRodWIuY29tLzE1Mzk3NC1IU0ktT1hMRVktQkFOS1MtNDBBQ1QvSE9URUwtUk9P
+TS1NSUdSQVRJT04tUEFUVEVSTi9pc3N1ZXMvMgoKCiMgUElORyAjIFBJTkc=
+---boundaryRMS123--
+
